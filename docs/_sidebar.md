@@ -1,4 +1,4 @@
-* [C++](/cs_note/C++.md)
+* [C++](/cs_note/C++/C++.md)
 * [操作系统](/cs_note/操作系统.md)
 * [计算机网络](/cs_note/计算机网络.md)
 * [数据库](/cs_note/mysql.md)
